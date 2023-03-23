@@ -1,3 +1,3 @@
 # MIRA-BOT
 
-HERE USER CAN INTERACT WITH THE BOT AND SAY CLOSE OR TERMINATE FOR CLOSING THE BOT
+A simple bot for listening to inputs and convey output with automated voice. simply use close or termibate to close the bot.
